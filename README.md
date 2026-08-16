@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/khyatijavadev-dot/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khyatijavadev-dot/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/khyatijavadev-dot/DSA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/khyatijavadev-dot/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/khyatijavadev-dot/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khyatijavadev-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -67,5 +68,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/khyatijavadev-dot/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khyatijavadev-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/khyatijavadev-dot/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
