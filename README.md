@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/khyatijavadev-dot/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/khyatijavadev-dot/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khyatijavadev-dot/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/khyatijavadev-dot/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/khyatijavadev-dot/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/khyatijavadev-dot/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khyatijavadev-dot/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/khyatijavadev-dot/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/khyatijavadev-dot/DSA/tree/master/0169-majority-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khyatijavadev-dot/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -43,8 +45,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khyatijavadev-dot/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/khyatijavadev-dot/DSA/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/khyatijavadev-dot/DSA/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khyatijavadev-dot/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khyatijavadev-dot/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khyatijavadev-dot/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
