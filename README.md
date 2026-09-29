@@ -74,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/khyatijavadev-dot/DSA/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khyatijavadev-dot/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khyatijavadev-dot/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khyatijavadev-dot/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
