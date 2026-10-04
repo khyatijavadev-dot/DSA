@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/khyatijavadev-dot/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/khyatijavadev-dot/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khyatijavadev-dot/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/khyatijavadev-dot/DSA/tree/master/0735-asteroid-collision) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/khyatijavadev-dot/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khyatijavadev-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/khyatijavadev-dot/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/khyatijavadev-dot/DSA/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/khyatijavadev-dot/DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khyatijavadev-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khyatijavadev-dot/DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/khyatijavadev-dot/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khyatijavadev-dot/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/khyatijavadev-dot/DSA/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
